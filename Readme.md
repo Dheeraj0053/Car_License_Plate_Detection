@@ -1,4 +1,4 @@
-## CAR LICENSE PLATE DETECTION 
+## 🚗 CAR LICENSE PLATE DETECTION 
 
 An intelligent License Plate Detection System built using YOLOv8, Streamlit, and EasyOCR, designed to detect and recognize vehicle license plates from both images and videos with high accuracy.
 
